@@ -1,5 +1,0 @@
-#!/bin/bash
-echo 'Best' >> bash/best
-
-echo echo Best
-echo \"Best\"
